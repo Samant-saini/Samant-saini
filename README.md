@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samant-saini&show_icons=true&locale=en" alt="samant-saini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samant-saini&" alt="samant-saini" /></p>
+
+![snake animation](https://raw.githubusercontent.com/samant-saini/samant-saini/output/github-contribution-grid-snake.svg)
